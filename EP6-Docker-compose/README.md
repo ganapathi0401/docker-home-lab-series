@@ -25,3 +25,12 @@ Define and run a multi-container application with Docker Compose.
 - Complete `LABS.md` and consult `LABS-ANSWERS.md`.
 - Review interview Q&A.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+

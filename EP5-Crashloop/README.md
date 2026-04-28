@@ -20,3 +20,12 @@ Explore how missing configuration and environment variables cause containers to 
 - Labs in `LABS.md` with answers in `LABS-ANSWERS.md`.
 - Interview prep in `INTERVIEW.md` and `INTERVIEW-ANSWERS.md`.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+

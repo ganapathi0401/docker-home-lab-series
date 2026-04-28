@@ -32,3 +32,12 @@ Containerize a minimal Flask application and run it locally using Docker.
 - Complete `LABS.md` then consult `LABS-ANSWERS.md`.
 - Practice explaining this `Dockerfile` using `INTERVIEW.md` and `INTERVIEW-ANSWERS.md`.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+

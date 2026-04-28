@@ -18,3 +18,12 @@ Persist stateful data beyond container lifecycle using Docker volumes and bind m
 ## Next Steps
 - Complete `LABS.md` and validate with `LABS-ANSWERS.md`.
 - Prepare for interviews with `INTERVIEW.md` and `INTERVIEW-ANSWERS.md`.
+
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)

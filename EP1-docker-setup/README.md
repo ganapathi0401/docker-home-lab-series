@@ -36,3 +36,12 @@ Learn how to install Docker, run your first containers, and get familiar with es
 - Do the labs in `LABS.md` then check `LABS-ANSWERS.md`.
 - Review interview prep in `INTERVIEW.md` and `INTERVIEW-ANSWERS.md`.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+

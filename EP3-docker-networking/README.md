@@ -29,3 +29,12 @@ Connect containers using a user-defined bridge network and container DNS names.
 - Do `LABS.md` and check `LABS-ANSWERS.md`.
 - Practice interview questions in `INTERVIEW.md`.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+

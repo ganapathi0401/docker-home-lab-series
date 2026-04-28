@@ -23,3 +23,12 @@ Harden container images and runtime: run as non-root, least privileges, smaller 
 - Try `Dockerfilev2`/`v3` with different exposed ports; adjust `-p` accordingly.
 - Do the labs and interview prep.
 
+---
+
+## Connect with Me
+
+- **1:1 Call**: [Book a session on Topmate](https://topmate.io/learnwithdevopsengineer)
+- **Newsletter**: [Subscribe for free](https://learnwithdevopsengineer.beehiiv.com/subscribe)
+- **YouTube**: [Learn With DevOps Engineer](https://www.youtube.com/@learnwithdevopsengineer)
+- **Instagram**: [Follow for updates](https://www.instagram.com/learnwithdevopsengineer)
+
